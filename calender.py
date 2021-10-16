@@ -1,11 +1,11 @@
-# Program to display calendar of the given month and year - By GK1205
+# Program to display calendar of the given month and year - By GK4G1205
 
 
 # importing calendar module
 import calendar
 
-yy = 2014  # year
-mm = 11    # month
+yy = 2021  # year
+mm = 10    # month
 
 # To take month and year input from the user
 # yy = int(input("Enter year: "))
